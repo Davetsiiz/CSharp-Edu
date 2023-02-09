@@ -1,0 +1,16 @@
+C:\Users\e_mur\OneDrive\Belgeler\GitHub\CSharp-Edu\CSharp Temelleri\Patika.Net_Calisma\Patika.Net_Calisma\bin\Debug\Patika.Net_Calisma.exe.config
+C:\Users\e_mur\OneDrive\Belgeler\GitHub\CSharp-Edu\CSharp Temelleri\Patika.Net_Calisma\Patika.Net_Calisma\bin\Debug\Patika.Net_Calisma.exe
+C:\Users\e_mur\OneDrive\Belgeler\GitHub\CSharp-Edu\CSharp Temelleri\Patika.Net_Calisma\Patika.Net_Calisma\bin\Debug\Patika.Net_Calisma.pdb
+C:\Users\e_mur\OneDrive\Belgeler\GitHub\CSharp-Edu\CSharp Temelleri\Patika.Net_Calisma\Patika.Net_Calisma\obj\Debug\Patika.Net_Calisma.csproj.AssemblyReference.cache
+C:\Users\e_mur\OneDrive\Belgeler\GitHub\CSharp-Edu\CSharp Temelleri\Patika.Net_Calisma\Patika.Net_Calisma\obj\Debug\Patika.Net_Calisma.csproj.SuggestedBindingRedirects.cache
+C:\Users\e_mur\OneDrive\Belgeler\GitHub\CSharp-Edu\CSharp Temelleri\Patika.Net_Calisma\Patika.Net_Calisma\obj\Debug\Patika.Net_Calisma.csproj.CoreCompileInputs.cache
+C:\Users\e_mur\OneDrive\Belgeler\GitHub\CSharp-Edu\CSharp Temelleri\Patika.Net_Calisma\Patika.Net_Calisma\obj\Debug\Patika.Net_Calisma.exe
+C:\Users\e_mur\OneDrive\Belgeler\GitHub\CSharp-Edu\CSharp Temelleri\Patika.Net_Calisma\Patika.Net_Calisma\obj\Debug\Patika.Net_Calisma.pdb
+C:\Users\e_mur\OneDrive\Belgeler\GitHub\CSharp-Edu\CSharp_Temelleri\Patika.Net_Calisma\Patika.Net_Calisma\bin\Debug\Patika.Net_Calisma.exe.config
+C:\Users\e_mur\OneDrive\Belgeler\GitHub\CSharp-Edu\CSharp_Temelleri\Patika.Net_Calisma\Patika.Net_Calisma\bin\Debug\Patika.Net_Calisma.exe
+C:\Users\e_mur\OneDrive\Belgeler\GitHub\CSharp-Edu\CSharp_Temelleri\Patika.Net_Calisma\Patika.Net_Calisma\bin\Debug\Patika.Net_Calisma.pdb
+C:\Users\e_mur\OneDrive\Belgeler\GitHub\CSharp-Edu\CSharp_Temelleri\Patika.Net_Calisma\Patika.Net_Calisma\obj\Debug\Patika.Net_Calisma.csproj.AssemblyReference.cache
+C:\Users\e_mur\OneDrive\Belgeler\GitHub\CSharp-Edu\CSharp_Temelleri\Patika.Net_Calisma\Patika.Net_Calisma\obj\Debug\Patika.Net_Calisma.csproj.SuggestedBindingRedirects.cache
+C:\Users\e_mur\OneDrive\Belgeler\GitHub\CSharp-Edu\CSharp_Temelleri\Patika.Net_Calisma\Patika.Net_Calisma\obj\Debug\Patika.Net_Calisma.csproj.CoreCompileInputs.cache
+C:\Users\e_mur\OneDrive\Belgeler\GitHub\CSharp-Edu\CSharp_Temelleri\Patika.Net_Calisma\Patika.Net_Calisma\obj\Debug\Patika.Net_Calisma.exe
+C:\Users\e_mur\OneDrive\Belgeler\GitHub\CSharp-Edu\CSharp_Temelleri\Patika.Net_Calisma\Patika.Net_Calisma\obj\Debug\Patika.Net_Calisma.pdb
